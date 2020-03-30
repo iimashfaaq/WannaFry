@@ -1,6 +1,7 @@
 import os
 
-''' ALL FILE EXTENSIONS INCLUDED FOR NOW,
+''' 
+    ALL FILE EXTENSIONS INCLUDED FOR NOW,
     REMOVE OR ADD ACCORDING TO YOUR REQUIREMENTS '''
 def discoverFiles(startpath):
     extensions = [     
